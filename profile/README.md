@@ -24,6 +24,9 @@ All other repositories do follow the naming scheme
 ### Transformative Change Assessment
 
 - [Chapter 2 Identify Vision and case studies for Transformative Change](https://ipbes-data.github.io/IPBES_TFC_Ch2_Vision/)
+- [Chapter 3 Snowball Search](https://ipbes-data.github.io/IPBES_TFC_Ch3_snowball-search/)
+- [Chapter 3 Soceietal Transformation](https://ipbes-data.github.io/IPBES_TFC_Ch3_societal-transformation/)
+- [Chapter 5 Inventory Options for Transformative Change](https://ipbes-data.github.io/IPBES_TFC_Ch5_Inventory-Options/)
 
 ### Business and Biodiversity Assessment
 

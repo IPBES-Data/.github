@@ -19,7 +19,7 @@ All other repositories do follow the naming scheme
 
 ### General
 
-- [Project template](https://ipbes-data.github.io/IPBES_xxx_Chy_project_template/)
+- [Project template](https://ipbes-data.github.io/IPBES_xxx_Chy_project_template/) [Download last release](https://github.com/IPBES-Data/IPBES_xxx_Chy_project_template/releases/latest/)
 
 ### Business and Biodiversity Assessment
 

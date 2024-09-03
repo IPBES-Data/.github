@@ -1,6 +1,6 @@
 # Collection of all repositories on GitHub by the IPBES Knowledge & Data tsu
 
-This repository contains all repositories on GitHub by the K&D task force.
+This organisation contains all repositories on GitHub by the Knowlede and Data tsu.
 
 This is no official IPBES organisation and IPBES takes no responsibility for it's content.
 

@@ -1,4 +1,4 @@
-# Collection of all repositories on GitHub by the IPBES Knowledge & Data tasu
+# Collection of all repositories on GitHub by the IPBES Knowledge & Data tsu
 
 This repository contains all repositories on GitHub by the K&D task force.
 

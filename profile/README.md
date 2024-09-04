@@ -1,33 +1,16 @@
-# Collection of all repositories on GitHub by the IPBES Knowledge & Data tsu
+# IPBES Data Unit
 
-This organisation contains all repositories on GitHub by the Knowlede and Data tsu.
+The IPBES Data Unit adressess all issues related to data management in IPBES compliant to the [Data and Kowledge Management Policy](https://doi.org/10.5281/zenodo.3551078).
 
-This is no official IPBES organisation and IPBES takes no responsibility for it's content.
+This github organisation contains repositories related to assessment support and general IPBES relevance. These are in detail:
 
-The repositories related to assessments do follow the naming scheme:
+Main Repositories are:
 
-**`IPBES_XXX_ChY_SHORT_NAME`** with
+- Documents relating to the support of the Data Unit for the assessments authors. These are at the moment:
+  - [Global Assessment](https://ipbes-data.github.io/IPBES_GA1/) ([repository](https://github.com/IPBES-Data/IPBES_GA1))
+  - [Invasive Alien Species Assessment](https://ipbes-data.github.io/IPBES_IAS/) ([repository](https://github.com/IPBES-Data/IPBES_IAS))
 
-- **`XXX`**: thre letter abbreviation of the assessment. See [LINK NEEDED](LINK_NEEDED) for a list of assessments and their abbreviations.
-- **`Y`**: Chapter the task / project is related to. If more than one, this can be e.g `Ch4Ch6`.
-- **`SHORT-NAME`**: Short name of the project / task **without** `_`.
+In addition to these assessment One Stop Shops, the following generally IPBES related sources are available:
 
-All other repositories do follow the naming scheme
-**`IPBES__SHORT_NAME`**
-
-## Current repos are
-
-### General
-
-- [Project template](https://ipbes-data.github.io/IPBES_xxx_Chy_project_template/) [Download last release](https://github.com/IPBES-Data/IPBES_xxx_Chy_project_template/releases/latest/)
-
-### Transformative Change Assessment
-
-- [Chapter 2 Identify Vision and case studies for Transformative Change](https://ipbes-data.github.io/IPBES_TFC_Ch2_Vision/)
-- [Chapter 3 Snowball Search](https://ipbes-data.github.io/IPBES_TFC_Ch3_snowball-search/)
-- [Chapter 3 Soceietal Transformation](https://ipbes-data.github.io/IPBES_TFC_Ch3_societal-transformation/)
-- [Chapter 5 Inventory Options for Transformative Change](https://ipbes-data.github.io/IPBES_TFC_Ch5_Inventory-Options/)
-
-### Business and Biodiversity Assessment
-
-- [Chapter 4 Snowball Pilot](https://ipbes-data.github.io/IPBES_BBA_Ch4_Snowball_Pilot_1/)
+- Technical Guidelines
+  - [Snowballing for Literature Search and Analysis](https://github.com/IPBES-Data/IPBES_TG_Snowballing) ([repository](https://github.com/IPBES-Data/IPBES_TG_Snowballing))

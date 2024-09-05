@@ -1,16 +1,14 @@
-# IPBES Data Unit
+# IPBES Data and Knowledge Unit
 
-The IPBES Data Unit adressess all issues related to data management in IPBES compliant to the [Data and Kowledge Management Policy](https://doi.org/10.5281/zenodo.3551078).
+The Data and Knowledge Unit addresses issues related to the management of data and knowledge in the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) in order to comply with the [Platform's Data and Knowledge Management Policy](https://doi.org/10.5281/zenodo.3551078).
 
-This github organisation contains repositories related to assessment support and general IPBES relevance. These are in detail:
+This Github organisation contains repositories related to the work of assessments.
 
 Main Repositories are:
 
-- Documents relating to the support of the Data Unit for the assessments authors. These are at the moment:
+- Documents related to the assessments. These are currently available:
   - [Global Assessment](https://ipbes-data.github.io/IPBES_GA1/) ([repository](https://github.com/IPBES-Data/IPBES_GA1))
   - [Invasive Alien Species Assessment](https://ipbes-data.github.io/IPBES_IAS/) ([repository](https://github.com/IPBES-Data/IPBES_IAS))
-
-In addition to these assessment One Stop Shops, the following generally IPBES related sources are available:
 
 - Technical Guidelines
   - [Snowballing for Literature Search and Analysis](https://github.com/IPBES-Data/IPBES_TG_Snowballing) ([repository](https://github.com/IPBES-Data/IPBES_TG_Snowballing))
